@@ -1,6 +1,6 @@
 # Getter and Setter Methods
 
-## Learning Goals
+## Learning Goals -->
 
 - Build getter and setter methods to calculate computed properties
 
